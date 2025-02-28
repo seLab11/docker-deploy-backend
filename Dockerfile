@@ -23,3 +23,4 @@ ENTRYPOINT ["java", "-Dspring.profiles.active=${JAVA_PROFILE}", \
   "-cp", "app:app/lib/*", "camt.se234.lab10.Lab10Application"]
 
 # comment for testing DeepSource
+# Add new comment for testing DeepSource
